@@ -84,6 +84,16 @@ h1
   color:#a7d129;
   text-align: center;
 }
+.end_hr
+{
+  position:absolute;
+  bottom:0px;
+  left:30%;
+  width:40%;
+  height:0px;
+  border:0px;
+  border-bottom: 20px dotted #a7d129;
+}
 .centre_text
 {
   position: relative;
@@ -125,7 +135,7 @@ h1
   padding:0;
   margin:0;
   /*margin-top: 50%;*/
-  background-color: blue;
+  background-color: black;
   height:100%;
   width:100%;
 }
